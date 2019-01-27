@@ -63,7 +63,7 @@ links:
       name: Pixieset
       show: true
       href: https://jonathanphelps.pixieset.com/
-      icon: fas fa-images
+      icon: fas fa-camera
   - xing:
       name: Xing
       show: false
