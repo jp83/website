@@ -23,8 +23,8 @@ title:
 # 'description' and 'keywords' simply set the corresponding meta tags,
 # 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
 robots:
-    description: One line of text describing the content of the page in less than 140 characters.
-    keywords: foo, bar, baz
+    description: Landing page for Jonathan Phelps Photo/Video social media, professional, and related service sites.
+    keywords: Jonathan Phelps, photo, video, photography, photographer, portaits, film, gallery, Murphy, Texas, TX
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
