@@ -70,6 +70,16 @@ links:
       show: false
       href: https://www.xing.com/profile/YOUR_XING_USERNAME/
       icon: fab fa-xing
+  - vimeo:
+      name: Vimeo
+      show: true
+      href: https://vimeo.com/jpfilms
+      icon: fab fa-vimeo
+  - facebook:
+      name: Facebook
+      show: true
+      href: https://www.facebook.com/jonathanphelpscom/
+      icon: fab fa-facebook
   - linkedin:
       name: LinkedIn
       show: true
@@ -95,11 +105,6 @@ links:
       show: false
       href: https://vine.co/YOUR_VINE_USERNAME
       icon: fab fa-vine
-  - facebook:
-      name: Facebook
-      show: true
-      href: https://www.facebook.com/jonathanphelpscom/
-      icon: fab fa-facebook
   - vkontakte:
       name: ВКонтакте
       show: false
